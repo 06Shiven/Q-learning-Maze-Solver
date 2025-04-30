@@ -67,7 +67,7 @@ repo-root/
 ├─ maze.py        # Maze generation & drawing routines
 ├─ agent.py       # Q‑learning agent logic and drawing
 ├─ README.md      # This documentation
-└─ requirements.txt (optional)
+└─ requirements.txt #Requirments for running this program
 ```
 
 ---
