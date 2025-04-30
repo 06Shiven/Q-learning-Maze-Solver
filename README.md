@@ -17,6 +17,13 @@ A real‑time Q‑learning maze solver built with Python and Pygame. Generate pe
 - **Stats Side‑Panel**: Displays maze size, cell size, ε, elapsed time, FPS, total episodes, and per‑agent stats (wins, best/avg/current steps), each in the agent’s color.
 
 ---
+## 🎬 Demo
+
+![Maze AI in action](DeepLearnAI.gif)
+
+Agents learning to solve a maze in real time, with heatmap overlay and dynamic stats.
+
+---
 
 ## 📦 Requirements
 
